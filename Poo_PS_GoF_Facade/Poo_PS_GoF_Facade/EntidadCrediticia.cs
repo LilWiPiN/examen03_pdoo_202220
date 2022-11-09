@@ -76,10 +76,19 @@ namespace Poo_PS_GoF_Facade
 
             resultado.Append(Environment.NewLine + "El Departamento juridico dice que la solicitud está: ");
 
+            resultado.Append(ObtieneResultadoAprovacion());
+
+            return resultado.ToString();
+        }
+
+        public string ObtieneResultadoAprovacion()
+        {
+            string resultado = "";
+
             if (elCliente.EstadoSolicitud)
-                resultado.Append("APROBADA! :-) ");
+                resultado = ("APROBADA! :-) ");
             else
-                resultado.Append("RECHAZADA! :_( ");
+                resultado = ("RECHAZADA! :_( ");
 
             return resultado.ToString();
         }

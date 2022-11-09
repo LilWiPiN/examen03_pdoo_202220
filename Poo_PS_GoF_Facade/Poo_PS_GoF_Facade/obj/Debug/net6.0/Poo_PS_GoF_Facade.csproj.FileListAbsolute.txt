@@ -1,0 +1,15 @@
+C:\Users\kramk\Desktop\examen03_pdoo_202220\Poo_PS_GoF_Facade\Poo_PS_GoF_Facade\bin\Debug\net6.0\Poo_PS_GoF_Facade.exe
+C:\Users\kramk\Desktop\examen03_pdoo_202220\Poo_PS_GoF_Facade\Poo_PS_GoF_Facade\bin\Debug\net6.0\Poo_PS_GoF_Facade.deps.json
+C:\Users\kramk\Desktop\examen03_pdoo_202220\Poo_PS_GoF_Facade\Poo_PS_GoF_Facade\bin\Debug\net6.0\Poo_PS_GoF_Facade.runtimeconfig.json
+C:\Users\kramk\Desktop\examen03_pdoo_202220\Poo_PS_GoF_Facade\Poo_PS_GoF_Facade\bin\Debug\net6.0\Poo_PS_GoF_Facade.dll
+C:\Users\kramk\Desktop\examen03_pdoo_202220\Poo_PS_GoF_Facade\Poo_PS_GoF_Facade\bin\Debug\net6.0\Poo_PS_GoF_Facade.pdb
+C:\Users\kramk\Desktop\examen03_pdoo_202220\Poo_PS_GoF_Facade\Poo_PS_GoF_Facade\obj\Debug\net6.0\Poo_PS_GoF_Facade.csproj.AssemblyReference.cache
+C:\Users\kramk\Desktop\examen03_pdoo_202220\Poo_PS_GoF_Facade\Poo_PS_GoF_Facade\obj\Debug\net6.0\Poo_PS_GoF_Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kramk\Desktop\examen03_pdoo_202220\Poo_PS_GoF_Facade\Poo_PS_GoF_Facade\obj\Debug\net6.0\Poo_PS_GoF_Facade.AssemblyInfoInputs.cache
+C:\Users\kramk\Desktop\examen03_pdoo_202220\Poo_PS_GoF_Facade\Poo_PS_GoF_Facade\obj\Debug\net6.0\Poo_PS_GoF_Facade.AssemblyInfo.cs
+C:\Users\kramk\Desktop\examen03_pdoo_202220\Poo_PS_GoF_Facade\Poo_PS_GoF_Facade\obj\Debug\net6.0\Poo_PS_GoF_Facade.csproj.CoreCompileInputs.cache
+C:\Users\kramk\Desktop\examen03_pdoo_202220\Poo_PS_GoF_Facade\Poo_PS_GoF_Facade\obj\Debug\net6.0\Poo_PS_GoF_Facade.dll
+C:\Users\kramk\Desktop\examen03_pdoo_202220\Poo_PS_GoF_Facade\Poo_PS_GoF_Facade\obj\Debug\net6.0\refint\Poo_PS_GoF_Facade.dll
+C:\Users\kramk\Desktop\examen03_pdoo_202220\Poo_PS_GoF_Facade\Poo_PS_GoF_Facade\obj\Debug\net6.0\Poo_PS_GoF_Facade.pdb
+C:\Users\kramk\Desktop\examen03_pdoo_202220\Poo_PS_GoF_Facade\Poo_PS_GoF_Facade\obj\Debug\net6.0\Poo_PS_GoF_Facade.genruntimeconfig.cache
+C:\Users\kramk\Desktop\examen03_pdoo_202220\Poo_PS_GoF_Facade\Poo_PS_GoF_Facade\obj\Debug\net6.0\ref\Poo_PS_GoF_Facade.dll

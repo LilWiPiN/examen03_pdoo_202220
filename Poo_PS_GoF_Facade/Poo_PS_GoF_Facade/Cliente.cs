@@ -2,7 +2,6 @@
 {
     public class Cliente
     { 
-    
         //Atributos de la clase
         private string? nombre;
         private int puntajeDataCredito;

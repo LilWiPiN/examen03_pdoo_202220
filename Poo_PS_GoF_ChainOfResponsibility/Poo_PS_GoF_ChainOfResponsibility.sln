@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.3.32922.545
+VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poo_PS_GoF_ChainOfResponsibility", "Poo_PS_GoF_ChainOfResponsibility\Poo_PS_GoF_ChainOfResponsibility.csproj", "{5AEAFAEA-DDEA-4051-BBFF-D3A278DE23AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poo_PS_GoF_ChainOfResponsibility", "Poo_PS_GoF_ChainOfResponsibility\Poo_PS_GoF_ChainOfResponsibility.csproj", "{5AEAFAEA-DDEA-4051-BBFF-D3A278DE23AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasChainOfResponsibility", "PruebasChainOfResponsibility\PruebasChainOfResponsibility.csproj", "{13F147BE-8862-48DA-BD64-CC4FC1438928}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5AEAFAEA-DDEA-4051-BBFF-D3A278DE23AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AEAFAEA-DDEA-4051-BBFF-D3A278DE23AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AEAFAEA-DDEA-4051-BBFF-D3A278DE23AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F147BE-8862-48DA-BD64-CC4FC1438928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F147BE-8862-48DA-BD64-CC4FC1438928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F147BE-8862-48DA-BD64-CC4FC1438928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F147BE-8862-48DA-BD64-CC4FC1438928}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

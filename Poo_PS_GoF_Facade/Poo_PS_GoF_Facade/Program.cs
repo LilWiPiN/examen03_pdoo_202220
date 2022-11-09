@@ -2,7 +2,7 @@
 {
     public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Programa para demostrar el patrón GoF - Fachada");
             Console.WriteLine("Evaluación de Crédito\n\n");
